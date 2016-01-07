@@ -1,0 +1,25 @@
+body {
+  overflow:hidden;
+  background:#fff;
+}
+
+.container {
+  position: absolute;
+  max-width: 100%;
+  margin:auto;
+  top:10%;
+  left:20%;
+}
+
+#scene {
+  border-radius: 5px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #d3d3d3;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+}
+
+#sidebar {
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.9);
+}
